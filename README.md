@@ -12,6 +12,7 @@
 - 👯 I’m looking to collaborate on php/laravel
 - 📫 How to reach me: abolfazlrastegar1996@gmail.com
 
+### My cv: <a href="https://abolfazlrastegar.ir/abolfazlrastegar.pdf" target="_blank" rel="noreferrer">https://abolfazlrastegar.ir/abolfazlrastegar.pdf</a>
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abolfazlrastegar&show_icons=true&locale=en&layout=compact" alt="abolfazlrastegar" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=abolfazlrastegar&" alt="abolfazlrastegar" />

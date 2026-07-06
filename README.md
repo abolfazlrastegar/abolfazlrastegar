@@ -1,17 +1,9 @@
-<h1 align="center">
-  Hi there, I'm Abolfazl Rastegar
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" />
-</h1>
+<h1 align="center">Abolfazl Rastegar</h1>
+
+<p align="center"><strong>Backend-Focused Developer | PHP, Laravel, Python, Docker</strong></p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Backend-focused+developer;Laravel+%7C+Python+%7C+Docker;Always+learning%2C+always+building"
-    alt="Typing introduction"
-  />
-</p>
-
-<p align="center">
-  I enjoy building practical web applications, improving backend skills, and creating clean development workflows.
+  I build practical web solutions with a strong focus on backend development, maintainable code, and reliable deployment workflows.
 </p>
 
 <p align="center">
@@ -19,13 +11,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:abolfazlrastegar1996@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.abolfazlrastegar.ir">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.instagram.com/abolfazlrastegar.official/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://abolfazlrastegar.ir/abolfazlrastegar.pdf">
+    <img src="https://img.shields.io/badge/Resume-1F6FEB?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
   </a>
 </p>
 
@@ -36,14 +28,19 @@
   </a>
 </p>
 
-## About me
+## Professional summary
 
-- 🌱 I am currently learning **PHP, Laravel, Python, and Docker**
-- 🤝 I am open to collaborating on **PHP / Laravel projects**
-- 📫 Reach me at **abolfazlrastegar1996@gmail.com**
-- 📄 Resume: **[abolfazlrastegar.ir/abolfazlrastegar.pdf](https://abolfazlrastegar.ir/abolfazlrastegar.pdf)**
+Backend-focused developer with an interest in building clean, scalable, and maintainable applications. I work mainly around **PHP / Laravel**, use **Python** for automation and problem solving, and rely on **Docker** to improve consistency across development environments.
 
-## Tech stack
+## What I bring
+
+- Build and improve backend features with **PHP** and **Laravel**
+- Write maintainable code with attention to clarity and long-term support
+- Use **Python** for scripting, tooling, and automation tasks
+- Work with **Docker** to make local and deployment workflows more reliable
+- Collaborate on product-focused projects with a practical engineering mindset
+
+## Core technologies
 
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -56,9 +53,22 @@
 
 ## Current focus
 
-- Building stronger backend foundations with **Laravel** and **PHP**
-- Using **Python** for automation and problem solving
-- Improving development environments with **Docker**
+- Deepening my expertise in **Laravel** application architecture
+- Expanding backend problem-solving with **Python**
+- Strengthening deployment and development workflows with **Docker**
+
+## Open to
+
+- Backend development opportunities
+- Laravel / PHP collaboration
+- Freelance or project-based work
+
+## Contact
+
+- **Email:** [abolfazlrastegar1996@gmail.com](mailto:abolfazlrastegar1996@gmail.com)
+- **LinkedIn:** [linkedin.com/in/abolfazlrastegar](https://www.linkedin.com/in/abolfazlrastegar)
+- **Portfolio:** [abolfazlrastegar.ir](https://www.abolfazlrastegar.ir)
+- **Resume:** [abolfazlrastegar.ir/abolfazlrastegar.pdf](https://abolfazlrastegar.ir/abolfazlrastegar.pdf)
 
 ## GitHub analytics
 

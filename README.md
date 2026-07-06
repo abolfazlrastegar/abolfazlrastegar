@@ -3,7 +3,7 @@
 <p align="center"><strong>Backend-Focused Developer | PHP, Laravel, Python, Docker</strong></p>
 
 <p align="center">
-  I build practical web solutions with a strong focus on backend development, maintainable code, and reliable deployment workflows.
+  I help teams and clients build practical web solutions with a strong focus on backend development, maintainable code, and reliable deployment workflows.
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ## Professional summary
 
-Backend-focused developer with an interest in building clean, scalable, and maintainable applications. I work mainly around **PHP / Laravel**, use **Python** for automation and problem solving, and rely on **Docker** to improve consistency across development environments.
+Backend-focused developer with an interest in building clean, scalable, and maintainable applications. I work mainly around **PHP / Laravel**, use **Python** for automation and problem solving, and rely on **Docker** to improve consistency across development environments. I enjoy turning business requirements into practical backend solutions that are easier to maintain and extend.
 
 ## What I bring
 
@@ -39,6 +39,13 @@ Backend-focused developer with an interest in building clean, scalable, and main
 - Use **Python** for scripting, tooling, and automation tasks
 - Work with **Docker** to make local and deployment workflows more reliable
 - Collaborate on product-focused projects with a practical engineering mindset
+
+## How I can help
+
+- Develop or extend **Laravel backends**, admin panels, and business logic
+- Build reusable integrations for **payments, SMS services, and project utilities**
+- Improve project setup, deployment flow, and environment consistency with **Docker** and automation
+- Support ongoing products with feature development, cleanup, and backend maintenance
 
 ## Core technologies
 
@@ -62,6 +69,54 @@ Backend-focused developer with an interest in building clean, scalable, and main
 - Backend development opportunities
 - Laravel / PHP collaboration
 - Freelance or project-based work
+
+## Featured projects
+
+### Laravel Payments
+
+Multi-payment package for Laravel projects, designed to help applications work with payment workflows in a reusable way.  
+**Repo:** [github.com/abolfazlrastegar/laravel-payments](https://github.com/abolfazlrastegar/laravel-payments)
+
+### Laravel Discount
+
+Laravel package focused on creating and managing discount code functionality for applications that need promotions or pricing rules.  
+**Repo:** [github.com/abolfazlrastegar/laravel-discount](https://github.com/abolfazlrastegar/laravel-discount)
+
+### Laravel SMS
+
+Laravel SMS package with support for providers such as **sms.ir** and **Kavenegar**, making messaging integration simpler inside Laravel applications.  
+**Repo:** [github.com/abolfazlrastegar/laravel-sms](https://github.com/abolfazlrastegar/laravel-sms)
+
+### Deploy Script
+
+Automation-oriented deployment script for Laravel projects that helps run the common steps needed after pulling the latest changes from Git.  
+**Repo:** [github.com/abolfazlrastegar/deploy](https://github.com/abolfazlrastegar/deploy)
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=abolfazlrastegar&repo=laravel-payments&theme=tokyonight&hide_border=true"
+    alt="Laravel Payments repository"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=abolfazlrastegar&repo=laravel-discount&theme=tokyonight&hide_border=true"
+    alt="Laravel Discount repository"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=abolfazlrastegar&repo=laravel-sms&theme=tokyonight&hide_border=true"
+    alt="Laravel SMS repository"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=abolfazlrastegar&repo=deploy&theme=tokyonight&hide_border=true"
+    alt="Deploy repository"
+  />
+</p>
 
 ## Contact
 

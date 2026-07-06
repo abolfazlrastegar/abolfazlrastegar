@@ -72,25 +72,16 @@ Backend-focused developer with an interest in building clean, scalable, and main
 
 ## Featured projects
 
-### Laravel Payments
+Selected public repositories that reflect my backend, package development, and workflow automation work.
 
-Multi-payment package for Laravel projects, designed to help applications work with payment workflows in a reusable way.  
-**Repo:** [github.com/abolfazlrastegar/laravel-payments](https://github.com/abolfazlrastegar/laravel-payments)
+| Project | Focus | What it helps with | Link |
+| --- | --- | --- | --- |
+| **Laravel Payments** | Payment integration | Reusable Laravel payment workflow support for application backends | [View repository](https://github.com/abolfazlrastegar/laravel-payments) |
+| **Laravel Discount** | Promotions and pricing logic | Discount code management for Laravel applications that need promotional rules | [View repository](https://github.com/abolfazlrastegar/laravel-discount) |
+| **Laravel SMS** | Messaging integration | SMS integration for Laravel projects with providers such as sms.ir and Kavenegar | [View repository](https://github.com/abolfazlrastegar/laravel-sms) |
+| **Deploy Script** | Deployment automation | Post-pull deployment steps for Laravel projects to streamline release workflows | [View repository](https://github.com/abolfazlrastegar/deploy) |
 
-### Laravel Discount
-
-Laravel package focused on creating and managing discount code functionality for applications that need promotions or pricing rules.  
-**Repo:** [github.com/abolfazlrastegar/laravel-discount](https://github.com/abolfazlrastegar/laravel-discount)
-
-### Laravel SMS
-
-Laravel SMS package with support for providers such as **sms.ir** and **Kavenegar**, making messaging integration simpler inside Laravel applications.  
-**Repo:** [github.com/abolfazlrastegar/laravel-sms](https://github.com/abolfazlrastegar/laravel-sms)
-
-### Deploy Script
-
-Automation-oriented deployment script for Laravel projects that helps run the common steps needed after pulling the latest changes from Git.  
-**Repo:** [github.com/abolfazlrastegar/deploy](https://github.com/abolfazlrastegar/deploy)
+### Repository cards
 
 <p align="center">
   <img

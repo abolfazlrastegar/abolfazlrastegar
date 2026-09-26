@@ -1,0 +1,19 @@
+{
+  "name": "abolfazlrastegar-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub profile README with linting and local GitHub-style preview tooling.",
+  "type": "module",
+  "scripts": {
+    "lint": "markdownlint-cli2 \"**/*.md\"",
+    "lint:fix": "markdownlint-cli2 --fix \"**/*.md\"",
+    "build": "node scripts/render.mjs",
+    "preview": "node scripts/render.mjs && node scripts/serve.mjs"
+  },
+  "devDependencies": {
+    "github-markdown-css": "^5.8.1",
+    "markdownlint-cli2": "^0.14.0",
+    "marked": "^14.1.4",
+    "marked-gfm-heading-id": "^4.1.1"
+  }
+}

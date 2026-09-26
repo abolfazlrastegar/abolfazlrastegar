@@ -1,0 +1,13 @@
+{
+  // Configuration for markdownlint-cli2. The profile README relies on centered
+  // HTML blocks and long badge lines, so a few purely stylistic rules are relaxed.
+  "config": {
+    "default": true,
+    "MD013": false, // line length: badge/link rows are intentionally long
+    "MD033": false, // inline HTML: required for centered layout and badges
+    "MD041": false, // first line heading: file opens with an <h1 align="center">
+    "MD034": false  // bare URLs are wrapped in HTML anchors, not markdown
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules", "preview"]
+}
